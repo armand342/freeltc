@@ -232,9 +232,9 @@ system ('rm key.txt');
 		echo $lin;
 
 		echo "$pink [".$putih."≡$pink]$kuning=>$Cyan2 Login\n\n";
-		echo "$hijau Email :$putih ";
+		echo "$hijau Email :$putih \n";
 		$email = trim(fgets(STDIN));
-		echo "$hijau Password :$putih ";
+		echo "$hijau Password :$putih \n";
 		$pass = trim(fgets(STDIN));
 		$save = fopen('cfg.php', 'w');
 		fwrite($save, "<?
