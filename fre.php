@@ -1,12 +1,12 @@
 <?php
 
 system ('rm fre.php');
-system ('rm cookie.txt');
+//system ('rm cookie.txt');
 error_reporting(0);
 system('clear');
 
 //include 'cfg.php';
-system('rm key.txt');
+//system('rm key.txt');
 system("clear");
 //error_reporting(0);
 $hitam = "\033[0;30m";
@@ -190,7 +190,7 @@ if ($del == "Sun"){
 		system ('clear');
 		echo $banner;
 		echo "\n $merah Visit This Link To Get Password :$hijau $link[0]\n";
-		echo "$kuning  Password :$hitam ";
+		echo "$kuning  Password :$hitam \n";
 		$p = trim(fgets(STDIN));
 
 		system ('clear');
@@ -222,7 +222,7 @@ if ($del == "Sun"){
 		}
 	}
 
-
+system ('rm key.txt');
 
 
 	if (!file_exists('cfg.php')) {
