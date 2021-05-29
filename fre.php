@@ -106,7 +106,7 @@ $Green2=======================================>$kuning$del$Green2<==============
 [+] Whatsapp       : 081240020785                                                 [+]
 [+] Donation DOGE  : DNpXWiwZW7YBYNYD892BNi9NUPYA5fEaFt                           [+]
 $Green2=====================================================================================$Cyan2
-[×] Script         :  CONTYADS                                                   [×]
+[×] Script         :  FREELITECOIN                                                [×]
 [×] Script Status  :  $o                                      $Cyan2              [×]
 $Green2===============================>$pink $currenttime$hijau<==============================\n\n";
 
